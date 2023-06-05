@@ -1,0 +1,10 @@
+C:\Users\smoky\Source\Repos\NouveauTest\bin\Debug\NouveauTest.exe.config
+C:\Users\smoky\Source\Repos\NouveauTest\bin\Debug\NouveauTest.exe
+C:\Users\smoky\Source\Repos\NouveauTest\bin\Debug\NouveauTest.pdb
+C:\Users\smoky\Source\Repos\NouveauTest\obj\Debug\NouveauTest.csproj.AssemblyReference.cache
+C:\Users\smoky\Source\Repos\NouveauTest\obj\Debug\NouveauTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\smoky\Source\Repos\NouveauTest\obj\Debug\NouveauTest.Properties.Resources.resources
+C:\Users\smoky\Source\Repos\NouveauTest\obj\Debug\NouveauTest.csproj.GenerateResource.cache
+C:\Users\smoky\Source\Repos\NouveauTest\obj\Debug\NouveauTest.csproj.CoreCompileInputs.cache
+C:\Users\smoky\Source\Repos\NouveauTest\obj\Debug\NouveauTest.exe
+C:\Users\smoky\Source\Repos\NouveauTest\obj\Debug\NouveauTest.pdb
